@@ -1,6 +1,4 @@
 # quwi-test-task
-=======
-# quwi-test-task
 
 ## Build Setup
 
