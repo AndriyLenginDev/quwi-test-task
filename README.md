@@ -1,4 +1,5 @@
-# quwi-test-task
+# Nuxt.js Test task
+## [Demo](https://lengin-development.github.io/vue-quwi-test-task/)
 
 ## Build Setup
 
